@@ -1,0 +1,11 @@
+Model Information:
+* title:	Avengers Logo
+* source:	https://sketchfab.com/3d-models/avengers-logo-231231c2e94b48eba6566cd424193d42
+* author:	minhdoan (https://sketchfab.com/minhdoan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Avengers Logo" (https://sketchfab.com/3d-models/avengers-logo-231231c2e94b48eba6566cd424193d42) by minhdoan (https://sketchfab.com/minhdoan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
